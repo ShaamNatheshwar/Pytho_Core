@@ -14,3 +14,10 @@ o2.printAll()
 
 see why are we using it is....no matter how many function we call upon name...we can call it from init...so generall stuffs which will be used again and again and needs
 a new instance can be done via init
+
+
+most important
+In previous example I will make change inside the mention as if its one class but different function
+
+while using  init
+it feels like different class itself
